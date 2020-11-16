@@ -21,3 +21,5 @@
 - git status
 - git add
 - git commit -m
+- git rm --cached  
+- git reset --hard
