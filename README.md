@@ -25,3 +25,7 @@ CLI 명령어 환경에서 Git을 학습합니다.
 - git commit -m
 - git rm --cached  
 - git reset --hard
+- git commit -a/m "메시지"
+- git push (-u) origin main
+- git pull origin main
+- git add .
