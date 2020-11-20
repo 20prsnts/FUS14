@@ -161,3 +161,13 @@
     font-size: 3rem;
   }
 
+/* 메인 콘텐츠 */
+
+
+.ediya-menu img{
+  max-width: 100%;
+  height: auto;
+}
+@media all and (min-width: 768px){
+  
+}
